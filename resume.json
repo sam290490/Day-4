@@ -1,0 +1,24 @@
+{
+    "name": "Sam Pramodh Sudhan E",
+    "location": "Chennai, Tamil Nadu",
+    "contact": {
+        "mobile": "+91 9790492486",
+        "email": "pramodh.sam@gmail.com"
+    },
+    "professionalExperience": {
+        "company": "Flex alias Flextronics",
+        "location": "Chennai",
+        "position": "Senior Software Developer",
+        "yearsOfExperience": "7",
+        "from": "Jan 2016",
+        "to": "present"
+    },
+    "education": [
+        {
+            "degree": "Master of Engineering",
+            "year": "2013 - 2015",
+            "specialization": "Computer Science and Engineering",
+            "institution": "St Joseph`s college of Engineering, OMR"
+        }
+    ]
+}
